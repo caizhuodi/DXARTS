@@ -1,5 +1,7 @@
 # DreamBooth
 
+The following shows another example that's different from the one in Notebook.
+
 ## dataset sample
 ![image](https://github.com/caizhuodi/DXARTS/blob/f94331ff294cbf3a0b9ff5efcca1192cf14c0e26/DreamBooth/asset/dreamboothdatasetsample.png)
 
