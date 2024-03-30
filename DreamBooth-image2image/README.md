@@ -1,6 +1,6 @@
 # DreamBooth
 
-The following shows another example that's different from the one in Notebook.
+The following is based on `text2image-DreamBooth_Stable_Diffusion-Tivon.ipynb`.
 
 ## dataset sample
 ![image](https://github.com/caizhuodi/DXARTS/blob/48a75ca1b37dd4632571acc096ba2362bc2bada6/DreamBooth-image2image/asset/dreambooth0-T-datasetsample.png)
