@@ -12,7 +12,7 @@ The following shows another example that's different from the one in Notebook.
 ![image](https://github.com/caizhuodi/DXARTS/blob/c4af5699dd57fd55e8328f10c9a5813d49de9206/DreamBooth/asset/dreambooth2.jpg)
 
 ## process video
-![video]()
+![video](https://github.com/caizhuodi/DXARTS/blob/48a75ca1b37dd4632571acc096ba2362bc2bada6/DreamBooth-image2image/asset/dreambooth3-T-process.mp4)
 
 ## notice
 1. Change `num_class_images` according to your own dataset.
