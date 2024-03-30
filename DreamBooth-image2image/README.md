@@ -3,16 +3,18 @@
 The following shows another example that's different from the one in Notebook.
 
 ## dataset sample
-![image](https://github.com/caizhuodi/DXARTS/blob/f94331ff294cbf3a0b9ff5efcca1192cf14c0e26/DreamBooth/asset/dreamboothdatasetsample.png)
+![image](https://github.com/caizhuodi/DXARTS/blob/48a75ca1b37dd4632571acc096ba2362bc2bada6/DreamBooth-image2image/asset/dreambooth0-T-datasetsample.png)
 
 ## explaination
-![image](https://github.com/caizhuodi/DXARTS/blob/c4af5699dd57fd55e8328f10c9a5813d49de9206/DreamBooth/asset/dreambooth1.jpg)
+![image](https://github.com/caizhuodi/DXARTS/blob/48a75ca1b37dd4632571acc096ba2362bc2bada6/DreamBooth-image2image/asset/dreambooth1-T.jpg)
 
 ## results
-![image](https://github.com/caizhuodi/DXARTS/blob/c4af5699dd57fd55e8328f10c9a5813d49de9206/DreamBooth/asset/dreambooth2.jpg)
+![image](https://github.com/caizhuodi/DXARTS/blob/48a75ca1b37dd4632571acc096ba2362bc2bada6/DreamBooth-image2image/asset/dreambooth2-T.jpg)
 
 ## video
-![image](https://github.com/caizhuodi/DXARTS/blob/1d0d3b9f5404fa76dbac00eff91762f5ec6a61bb/DreamBooth-image2image/asset/dreambooth3-T-process.gif)
+<p align="center">
+  <img src="https://github.com/caizhuodi/DXARTS/blob/1d0d3b9f5404fa76dbac00eff91762f5ec6a61bb/DreamBooth-image2image/asset/dreambooth3-T-process.gif" alt="animated" />
+</p>
 
 https://github.com/caizhuodi/DXARTS/blob/48a75ca1b37dd4632571acc096ba2362bc2bada6/DreamBooth-image2image/asset/dreambooth3-T-process.mp4
 
