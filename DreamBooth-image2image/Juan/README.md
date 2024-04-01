@@ -6,10 +6,10 @@ The following is based on `text2image-DreamBooth_Stable_Diffusion-Juan-large.ipy
 ![image](https://github.com/caizhuodi/DXARTS/blob/main/DreamBooth-image2image/asset/dreambooth0-J-datasetsample.png)
 
 ## explaination
-![image](https://github.com/caizhuodi/DXARTS/blob/main/DreamBooth-image2image/asset/dreambooth1-J.png)
+![image](https://github.com/caizhuodi/DXARTS/blob/main/DreamBooth-image2image/asset/dreambooth1-J.jpg)
 
 ## results
-![image](https://github.com/caizhuodi/DXARTS/blob/main/DreamBooth-image2image/asset/dreambooth2-J.png)
+![image](https://github.com/caizhuodi/DXARTS/blob/main/DreamBooth-image2image/asset/dreambooth2-J.jpg)
 
 ## notice
 1. Change `num_class_images` according to your own dataset.
