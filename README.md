@@ -1,4 +1,7 @@
 # DXARTS
-This repository is for DXARTS. I will gradually post AI models and tutorials here 🐢... If there are any other interesting models you don't know how to use, please contact me;)
+This repository is for DXARTS. I will gradually post AI models and tutorials here 🐢... Please contact me, if:
 
-zc2525@uw.edu
+- any model interests you but you have no idea how to use
+- you would love to share the model you are using
+
+Email: zc2525@uw.edu
