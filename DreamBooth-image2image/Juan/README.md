@@ -17,17 +17,17 @@ The following is based on `text2image-DreamBooth_Stable_Diffusion-Juan.ipynb`.
 
 ### inference approach B, seed control randomness & still images & video
 <p align="center">
-  <img src="DreamBooth-image2image/asset/dreambooth3-J-process-output_video_converted.gif" alt="animated" />
+  <img src="https://github.com/caizhuodi/DXARTS/blob/093bb18f8332f6ec1d045d88eb60a0e931626e35/DreamBooth-image2image/asset/dreambooth3-J-process-output_video_converted.gif" alt="animated" />
 </p>
 
-https://github.com/caizhuodi/DXARTS/blob/48a75ca1b37dd4632571acc096ba2362bc2bada6/DreamBooth-image2image/asset/dreambooth3-T-process.mp4
+https://github.com/caizhuodi/DXARTS/blob/50b242311483b78b4faf89292e424f3bba8b2225/DreamBooth-image2image/asset/dreambooth3-J-process-output_video_converted.mp4
 
 ### inference approach C, generate from an image input & seed control randomness & still images & video
 <p align="center">
-  <img src="DreamBooth-image2image/asset/dreambooth3-J-process-output_video_converted_C.gif" alt="animated" />
+  <img src="https://github.com/caizhuodi/DXARTS/blob/093bb18f8332f6ec1d045d88eb60a0e931626e35/DreamBooth-image2image/asset/dreambooth3-J-process-output_video_converted_C.gif" alt="animated" />
 </p>
 
-https://github.com/caizhuodi/DXARTS/blob/48a75ca1b37dd4632571acc096ba2362bc2bada6/DreamBooth-image2image/asset/dreambooth3-T-process.mp4
+https://github.com/caizhuodi/DXARTS/blob/50b242311483b78b4faf89292e424f3bba8b2225/DreamBooth-image2image/asset/dreambooth3-J-process-output_video_converted_C.mp4
 
 ## notice
 1. Change `num_class_images` according to your own dataset.
