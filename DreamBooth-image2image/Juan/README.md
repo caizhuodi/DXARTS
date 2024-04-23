@@ -17,14 +17,14 @@ The following is based on `text2image-DreamBooth_Stable_Diffusion-Juan.ipynb`.
 
 ### inference approach B, seed control randomness & still images & video
 <p align="center">
-  <img src="https://github.com/caizhuodi/DXARTS/blob/1d0d3b9f5404fa76dbac00eff91762f5ec6a61bb/DreamBooth-image2image/asset/dreambooth3-T-process.gif" alt="animated" />
+  <img src="DreamBooth-image2image/asset/dreambooth3-J-process-output_video_converted.gif" alt="animated" />
 </p>
 
 https://github.com/caizhuodi/DXARTS/blob/48a75ca1b37dd4632571acc096ba2362bc2bada6/DreamBooth-image2image/asset/dreambooth3-T-process.mp4
 
 ### inference approach C, generate from an image input & seed control randomness & still images & video
 <p align="center">
-  <img src="https://github.com/caizhuodi/DXARTS/blob/1d0d3b9f5404fa76dbac00eff91762f5ec6a61bb/DreamBooth-image2image/asset/dreambooth3-T-process.gif" alt="animated" />
+  <img src="DreamBooth-image2image/asset/dreambooth3-J-process-output_video_converted_C.gif" alt="animated" />
 </p>
 
 https://github.com/caizhuodi/DXARTS/blob/48a75ca1b37dd4632571acc096ba2362bc2bada6/DreamBooth-image2image/asset/dreambooth3-T-process.mp4
