@@ -3,13 +3,13 @@
 The following is based on `text2image-DreamBooth_Stable_Diffusion-Juan-large.ipynb`.
 
 ## dataset sample
-![image](https://github.com/caizhuodi/DXARTS/blob/main/DreamBooth-image2image/asset/dreambooth0-J-datasetsample.png)
+![image](https://github.com/caizhuodi/DXARTS/blob/46beb8a9ed835b93a7c915d2f45e6c2063a0d855/DreamBooth-image2image&text2image/asset/dreambooth0-J-datasetsample.png)
 
 ## explaination
-![image](https://github.com/caizhuodi/DXARTS/blob/main/DreamBooth-image2image/asset/dreambooth1-J.jpg)
+![image](https://github.com/caizhuodi/DXARTS/blob/46beb8a9ed835b93a7c915d2f45e6c2063a0d855/DreamBooth-image2image&text2image/asset/dreambooth1-J.jpg)
 
 ## results
-![image](https://github.com/caizhuodi/DXARTS/blob/main/DreamBooth-image2image/asset/dreambooth2-J.jpg)
+![image](https://github.com/caizhuodi/DXARTS/blob/46beb8a9ed835b93a7c915d2f45e6c2063a0d855/DreamBooth-image2image&text2image/asset/dreambooth2-J.jpg)
 
 ## video
 
