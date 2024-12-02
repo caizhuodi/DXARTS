@@ -1,0 +1,3 @@
+# MAGNeT
+
+Not good at text2music, but text2sound is OK...
